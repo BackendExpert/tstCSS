@@ -13,8 +13,9 @@
 
 <div id="modalJK" class="JKmodal">
   <div class="jkm-content">
-    <span class="close">&times;</span>
+    <!-- <span class="close">&times;</span> -->
     <p>This is a modal!</p>
+    <button class="jkbtn jkbtn-red close">Close</button>
   </div>
 </div>
 

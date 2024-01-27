@@ -17,13 +17,11 @@
     border: 1px solid #888;
     width: 80%;
     max-width: 600px;
+    border-radius: 5px;
 }
   
 .close {
     color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
 }
   
 .close:hover,
