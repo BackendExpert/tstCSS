@@ -12,9 +12,9 @@
 
 <h2>Animated Modal with Header and Footer</h2>
 
-<!-- Trigger/Open The Modal -->
-<button id="myBtn">Open Modal</button>
 
+<!-- Trigger/Open The Modal -->
+<button id="myBtn">Open Modal</button><br>
 <!-- The Modal -->
 <div id="myModal" class="modal">
 
@@ -32,8 +32,9 @@
       <h3>Modal Footer</h3>
     </div>
   </div>
-
 </div>
+
+asdasdasd
 
 </body>
 </html>
