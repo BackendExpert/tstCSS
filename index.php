@@ -9,10 +9,10 @@
 </head>
 <body>
 
-<button id="openModal" class="jkbtn jkbtn-blue">Open Modal</button>
+<button id="openModalJK" class="jkbtn jkbtn-blue">Open Modal</button>
 
-<div id="modal" class="modal">
-  <div class="modal-content">
+<div id="modalJK" class="JKmodal">
+  <div class="jkm-content">
     <span class="close">&times;</span>
     <p>This is a modal!</p>
   </div>
