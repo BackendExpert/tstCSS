@@ -10,14 +10,28 @@
 </head>
 <body>
 
-<div class="container">
-  <button type="submit" class="btn" onclick="openPopup()">Submit</button>
-  <div class="popup" id="popup">
-    <img src="img/tick.png" alt="">
-    <h2>Thank You!</h2>
-    <p>Your Details has been Succesfully Submitted.Thanks!</p>
-    <button type="button" onclick="closePopup()">OK</button>
-  </div>  
+<h2>Animated Modal with Header and Footer</h2>
+
+<!-- Trigger/Open The Modal -->
+<button id="myBtn">Open Modal</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">&times;</span>
+      <h2>Modal Header</h2>
+    </div>
+    <div class="modal-body">
+      <p>Some text in the Modal Body</p>
+      <p>Some other text...</p>
+    </div>
+    <div class="modal-footer">
+      <h3>Modal Footer</h3>
+    </div>
+  </div>
 
 </div>
 
