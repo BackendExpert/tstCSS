@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<button id="openModal">Open Modal</button>
+<button id="openModal" class="jkbtn jkbtn-blue">Open Modal</button>
 
 <div id="modal" class="modal">
   <div class="modal-content">
@@ -18,7 +18,7 @@
   </div>
 </div>
 
-
+asdas
 <!-- <script src="app.js"></script> -->
 </body>
 </html>

@@ -1,4 +1,5 @@
-document.getElementById('openModal').addEventListener('click', function() {
+window.onload = function(){
+  document.getElementById('openModal').addEventListener('click', function() {
     document.getElementById('modal').style.display = 'block';
   });
   
@@ -11,5 +12,6 @@ document.getElementById('openModal').addEventListener('click', function() {
     if (event.target == modal) {
       modal.style.display = 'none';
     }
-  });
+});
+}
   
