@@ -9,17 +9,10 @@
 </head>
 <body>
 
-<button id="openModalJK" class="jkbtn jkbtn-blue">Open Modal</button>
+<div class="site-container">
 
-<div id="modalJK" class="JKmodal">
-  <div class="jkm-content">
-    <!-- <span class="close">&times;</span> -->
-    <p>This is a modal!</p>
-    <button class="jkbtn jkbtn-red close">Close</button>
-  </div>
 </div>
 
-asdas
 <!-- <script src="app.js"></script> -->
 </body>
 </html>
