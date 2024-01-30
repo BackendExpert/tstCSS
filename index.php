@@ -10,12 +10,9 @@
 <body>
 
 <div class="site-container">
-<button class="jkbtn jkbtn-blue modal-open" data-modal="modal1">Model
-            1</button>
-        <button class="jkbtn jkbtn-green modal-open" data-modal="modal2">Model
-            2</button>
-        <button class="jkbtn jkbtn-yellow modal-open" data-modal="modal3">Model
-            3</button>
+        <button class="jkbtn jkbtn-blue modal-open" data-modal="modal1">Model 1</button>
+        <button class="jkbtn jkbtn-green modal-open" data-modal="modal2">Model 2</button>
+        <button class="jkbtn jkbtn-yellow modal-open" data-modal="modal3">Model 3</button>
 
         <div class="modal" id="modal1">
             <div class="modal-content">
@@ -24,20 +21,7 @@
                     <button class="close-btn">&times;</button>
                 </div>
                 <div class="modal-body">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Tenetur rem est sapiente voluptas repellat nemo temporibus
-                    dolores, quo sed illo dicta quasi et asperiores excepturi
-                    assumenda culpa molestiae pariatur voluptates?
-
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Tenetur rem est sapiente voluptas repellat nemo temporibus
-                    dolores, quo sed illo dicta quasi et asperiores excepturi
-                    assumenda culpa molestiae pariatur voluptates?
-
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Tenetur rem est sapiente voluptas repellat nemo temporibus
-                    dolores, quo sed illo dicta quasi et asperiores excepturi
-                    assumenda culpa molestiae pariatur voluptates?
+                    55555555555555555555555555555555555555555555
                 </div>
                 <div class="modal-footer">
                     <button class="jkbtn jkbtn-blue">Links</button>
@@ -50,25 +34,11 @@
         <div class="modal" id="modal2">
             <div class="modal-content">
                 <div class="modal-header">
-                    Modal 1
+                    Modal 2
                     <button class="close-btn">&times;</button>
                 </div>
                 <div class="modal-body">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Porro accusamus repudiandae nulla possimus quasi officia eos
-                    consectetur. Quo corrupti eos, maxime vel illo sapiente. Eum
-                    dolorum possimus aspernatur necessitatibus eveniet.
-                    <br>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Porro accusamus repudiandae nulla possimus quasi officia eos
-                    consectetur. Quo corrupti eos, maxime vel illo sapiente. Eum
-                    dolorum possimus aspernatur necessitatibus eveniet.
-                    <br>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Porro accusamus repudiandae nulla possimus quasi officia eos
-                    consectetur. Quo corrupti eos, maxime vel illo sapiente. Eum
-                    dolorum possimus aspernatur necessitatibus eveniet.
-                    <br>
+                    a6+7465745168465419646546546546465465
                 </div>
                 <div class="modal-footer">
                     <button class="jkbtn jkbtn-blue">Links</button>
@@ -81,24 +51,11 @@
         <div class="modal" id="modal3">
             <div class="modal-content">
                 <div class="modal-header">
-                    Modal 1
+                    Modal 3
                     <button class="close-btn">&times;</button>
                 </div>
                 <div class="modal-body">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Tenetur rem est sapiente voluptas repellat nemo temporibus
-                    dolores, quo sed illo dicta quasi et asperiores excepturi
-                    assumenda culpa molestiae pariatur voluptates?
-
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Tenetur rem est sapiente voluptas repellat nemo temporibus
-                    dolores, quo sed illo dicta quasi et asperiores excepturi
-                    assumenda culpa molestiae pariatur voluptates?
-
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Tenetur rem est sapiente voluptas repellat nemo temporibus
-                    dolores, quo sed illo dicta quasi et asperiores excepturi
-                    assumenda culpa molestiae pariatur voluptates?
+                    kjaskd ahskjdhkaj sd asdasd
                 </div>
                 <div class="modal-footer">
                     <button class="jkbtn jkbtn-blue">Links</button>
